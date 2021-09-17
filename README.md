@@ -31,4 +31,4 @@ Meu novo Github 😊
 - 🔭 Hoje trabalho como programador na Secretaria da Cultura do Ceará
 - 🌱 Estaudando Spring boot + Angular
 - 👯 Colaborando diariamente com sistemas open-source Mapas Cultural - https://github.com/mapasculturais/mapasculturais
-- 💬 Pergunte-me sobre Clean Architecture ou S.O.L.I.D
+- 💬 Pergunte-me sobre Clean Architecture e S.O.L.I.D
