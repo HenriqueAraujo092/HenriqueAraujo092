@@ -6,6 +6,7 @@ Meu novo Github 😊
 
 <div>
   
+  
   <a href="https://github.com/HenriqueAraujo092">
   <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueAraujo092&layout=compact&langs_count=7&theme=vue"/>
 </div>
